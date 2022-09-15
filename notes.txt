@@ -1,0 +1,32 @@
+setting the connection:
+
+Register the driver(Class.forName("com.mysql.cj.jdbc.Driver"))// not required in latest version.
+Connection(setting the connection with database)
+creating statement 
+executing mysql queries
+close connections 
+
+
+
+new customer:
+ID
+name
+Father's name
+category(student,employee,old age person)
+name of institution 
+course name:
+session
+trip duration(1,3,6);
+from:
+to:
+
+logginginas logging
+password  enterpassword
+uid.        enteruid
+
+&& rs.next()
+ 
+          ResultSet rs=c.s.executeQuery(query2);
+          
+
+ n.email ='"+emailid+"', n.mobileno ='"+mobno+"',n.username ='"+usr+"',n.password ='"+pswd+"' where c.uidno = n.uidno and          
